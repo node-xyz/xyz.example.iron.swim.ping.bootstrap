@@ -216,4 +216,4 @@ and analogously in `127.0.0.1:4000` which is the target of the join request:
 
 # Summery
 
-![]()
+![](https://github.com/node-xyz/xyz.example.iron.swim.ping.bootstrap/blob/master/media/1.png?raw=true)
