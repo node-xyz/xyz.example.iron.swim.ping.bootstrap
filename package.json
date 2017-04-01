@@ -1,0 +1,22 @@
+{
+  "name": "xyz.example.iron.swim.ping.bootstrap",
+  "version": "1.0.0",
+  "description": "an example to show xyz middlewares can be stacked to woek with each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-xyz",
+    "microservices",
+    "security",
+    "swim"
+  ],
+  "dependencies": {
+    "xyz-core": "^0.4.x",
+    "xyz.iron.man.bootstrap": "^0.4.x",
+    "xyz.ping.swim.bootstrap": "^0.4.x"
+  },
+  "author": "kian.peymani@gmail.com",
+  "license": "ISC"
+}
